@@ -1,6 +1,6 @@
 Type: Application
 Name: getip
-Version: 0.0.1
+Version: 0.0.2
 Provider:
   - 阿里云
 Description: 快速部署一个基于函数计算的 Node.js 12 的获取客户端 IP 地址的接口

@@ -50,7 +50,7 @@ services:
         name: "{{ functionName }}"
         description: 'Get IP Address'
         runtime: nodejs12
-        codeUri: ./code
+        codeUri: ./
         handler: index.handler
         memorySize: 128
         timeout: 60
